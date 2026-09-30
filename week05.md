@@ -33,3 +33,6 @@ Gemini 질의 내용
 
 Gemini에게 구글 문서 공유 설정 방법, 버전 기록 확인 방법, GitHub 마크다운 작성 방법에 대해 질문했습니다. 또한 GitHub에서 영구 커밋 URL을 생성하는 방법과 보고서 작성 예시에 대한 도움을 받았습니다.
 
+## 구글 문서 공유 링크
+
+https://docs.google.com/document/d/1cZFq_1pEOUg4_HbefJBKhqA0mNtteCAsCgUQX0ulYoI/edit?usp=drivesdk
